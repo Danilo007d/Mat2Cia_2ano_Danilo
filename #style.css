@@ -2,7 +2,7 @@
     background-color: blue#424E61
     color: aqua
     display: flex
-    justify
+    justify-content: space-around
 }
 .cabecalho-imagem{
     width: 30%
