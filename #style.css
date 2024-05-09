@@ -1,7 +1,8 @@
 .cabecalho {
     background-color: blue#424E61
     color: aqua
-    displey: flex
+    display: flex
+    justify
 }
 .cabecalho-imagem{
     width: 30%
