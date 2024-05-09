@@ -1,5 +1,5 @@
 .cabecalho{
-    background-color: blue#424E61
+    background-color: blue#424E61;
     color: aqua;
     display: flex;
     justify-content: space-around;
@@ -7,8 +7,6 @@
 .cabecalho-imagem{
     width: 30%;
 }
-
-
 .cabecalho-lista-item{
     display: inline-block;
 }
